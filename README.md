@@ -13,6 +13,12 @@ This material is organised within the **SEMIA'04 event**, organised at **UMP, Mo
 5. Evaluate vegetation response (NDVI change).
 6. Optionally run a Random Forest workflow to identify irrigation ponds.
 
+## No GEE Account Yet?
+
+If you do not yet have a Google Earth Engine and Google Cloud setup, follow this video guide first:
+
+- GEE account creation and Google Cloud setup video: <https://drive.google.com/file/d/1zEQXwrjKs7ldNt5NmcyHoDjmko2hCr7J/view>
+
 ## Notebooks
 
 - `00_setup_google_earth_engine.ipynb`  
